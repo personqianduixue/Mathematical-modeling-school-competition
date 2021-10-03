@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}摘要}{1}{section.1}%
+\contentsline {section}{\numberline {2}问题重述}{1}{section.2}%
+\contentsline {section}{\numberline {3}问题分析}{1}{section.3}%
+\contentsline {section}{\numberline {4}符号说明}{2}{section.4}%
+\contentsline {section}{\numberline {5}基本假设}{2}{section.5}%
+\contentsline {section}{\numberline {6}模型建立求解与结果分析}{3}{section.6}%
+\contentsline {subsection}{\numberline {6.1}最短路径问题模型的求解}{3}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}模型的建立}{3}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}模型求解}{4}{subsubsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.2}产销平衡问题模型的求解}{6}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}模型的建立}{6}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}模型的求解}{8}{subsubsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.3}问题二模型的求解}{9}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}模型的建立}{9}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}模型的求解}{9}{subsubsection.6.3.2}%
+\contentsline {section}{\numberline {7}结果分析}{12}{section.7}%
+\contentsline {section}{\numberline {8}模型优缺点及改进方向}{13}{section.8}%
+\contentsline {section}{\numberline {9}附录}{13}{section.9}%
+\contentsline {section}{\numberline {A}求最短路径的matlab程序}{13}{appendix.A}%
+\contentsline {section}{\numberline {B}求解问题一的lingo程序}{15}{appendix.B}%
+\contentsline {section}{\numberline {C}求解问题二的lingo程序}{15}{appendix.C}%
+\contentsline {section}{参考文献}{16}{lstnumber.-3.32}%
+\contentsfinish 
